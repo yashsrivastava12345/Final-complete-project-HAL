@@ -1,0 +1,16 @@
+Note :-
+Do make sure you have correctly installed Tesseract.
+
+Following are the packages required:-
+
+Pillow pywin32
+opencv-python-headless
+pandas
+ultralytics
+numpy
+pytesseract
+cvzone
+
+Or simpally run the following command
+
+pip install opencv-python-headless pandas ultralytics numpy pytesseract cvzone
